@@ -1,5 +1,0 @@
-{
-  "name": "AI Voice & Chat Agent",
-  "description": "An interactive AI agent that responds to both text and voice commands, providing a seamless conversational experience powered by Gemini.",
-  "requestFramePermissions": ["microphone"]
-}
